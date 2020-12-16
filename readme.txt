@@ -8,4 +8,5 @@ Stash1.0.
 Stash1.1.
 Add Dev.
 Git Merge Rebase1.
+commit all line
 
